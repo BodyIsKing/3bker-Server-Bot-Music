@@ -1,6 +1,6 @@
 owner= 448964162840690700
 prefix=1
-game=1play | FalconCommunity
+game=stream 1play | FalconCommunity
 stayinchannel=False
 songinstatus=false
 token= NTQ2MjMyNDg1Nzk3ODIyNDk0.D0laiQ.B5fYi3AqLanUEGXuTmlnn62nbSM

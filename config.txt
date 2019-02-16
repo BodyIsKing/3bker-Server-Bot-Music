@@ -1,6 +1,6 @@
-owner=448964162840690700
-prefix=6
-game=6play | DragonsEmpire
+owner= 448964162840690700
+prefix=1
+game=1play | FalconCommunity
 stayinchannel=False
 songinstatus=false
-token=NTQzMTEzNTMxMDc2MTE2NTEy.Dz31uA.Mo6kLXRY1y1QsMNHx7Etc1Dwu0w
+token= NTQ2MjMyNDg1Nzk3ODIyNDk0.D0laiQ.B5fYi3AqLanUEGXuTmlnn62nbSM
